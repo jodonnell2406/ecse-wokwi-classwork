@@ -26,9 +26,9 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: ""
-  uo[1]: ""
-  uo[2]: ""
+  uo[0]: "red"
+  uo[1]: "yelllow"
+  uo[2]: "green"
   uo[3]: ""
   uo[4]: ""
   uo[5]: ""
